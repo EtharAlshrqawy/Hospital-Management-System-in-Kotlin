@@ -1,0 +1,2 @@
+# Hospital Management System in Kotlin
+ This repository contains the implementation of a basic Hospital Management System written in Kotlin. It features a modular structure, leveraging object-oriented programming principles to define entities such as Person, Patient, and Employee, along with their respective attributes and methods. The system is designed to be scalable and is a great starting point for anyone learning Kotlin or exploring object-oriented design.
